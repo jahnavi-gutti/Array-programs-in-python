@@ -1,3 +1,4 @@
+#Given an array arr of N integers, write a function that returns true if there is a triplet (a, b, c) that satisfies a2 + b2 = c2, otherwise false.
 import numpy as job
 n=int(input())
 a=list(map(int, input().strip().split(" ")))
