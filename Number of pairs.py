@@ -1,3 +1,4 @@
+#Given two arrays X and Y of positive integers, find the number of pairs such that xy > yx (raised to power of) where x is an element from X and y is an element from Y.
 m=int(input())
 a=[int(x) for x in input().strip().split(" ")]
 n=int(input())
