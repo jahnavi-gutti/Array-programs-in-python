@@ -1,3 +1,4 @@
+#Given an array arr[] of positive integers of size N. Reverse every sub-array group of size K.
 n=int(input())
 k=int(input())
 a = [int(i) for i in input().strip().split(" ")]
