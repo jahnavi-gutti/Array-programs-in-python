@@ -1,3 +1,4 @@
+#Given an array arr of N integers. Find the contiguous sub-array with maximum sum.
 t = int(input())
 for i in range(0,t):
     n = int(input())
