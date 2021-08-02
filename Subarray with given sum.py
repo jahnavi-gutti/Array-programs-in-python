@@ -1,3 +1,6 @@
+#Given an unsorted array A of size N that contains only non-negative integers, find a continuous sub-array which adds to a given number S.
+
+ 
 def subarray_with_given_sum(arr,n,s):
     start = 0
     current_sum = 0
